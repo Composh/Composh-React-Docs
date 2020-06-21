@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://google.com/">
+  <a href="https://composh.io/" target="_blank">
     <img alt="react-native-composh" src="https://user-images.githubusercontent.com/5962998/65694309-a825f000-e043-11e9-8382-db0dba0851e3.png" width="300">
   </a>
 </p>
@@ -12,7 +12,6 @@
   <a href="https://www.npmjs.com/package/react-native-composh"><img src="https://img.shields.io/npm/v/react-native-composh.svg?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/react-native-composh"><img src="https://img.shields.io/npm/dm/react-native-composh.svg?style=flat-square"></a>
   <a href="https://travis-ci.org/react-native-composh/react-native-composh"><img src="https://img.shields.io/travis/react-native-composh/react-native-composh/master.svg?style=flat-square"></a>
-  <a href="https://react-native-composh-slack.herokuapp.com"><img src="https://react-native-composh-slack.herokuapp.com/badge.svg"></a>
 </p>
 
 <p align="center">
