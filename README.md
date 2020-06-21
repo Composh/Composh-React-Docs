@@ -26,7 +26,15 @@
 
 <br />
 
-![React Native Elements UI Toolkit](https://github.com/Composh/react-native-comdocs/blob/master/src/assets/images/logo-composh-wallpaper.png?raw=true)
+
+![React Native Composh UI Toolkit](https://github.com/Composh/react-native-comdocs/blob/master/src/assets/images/logo-composh-wallpaper.png?raw=true)
+
+
+
+## Documentation
+
+[View the full docs here](https://react-native-composh.github.io/react-native-composh/docs/overview.html)
+
 
 ## Get Started
 
@@ -34,62 +42,47 @@
 
 Follow
 [these instructions](https://react-native-composh.github.io/react-native-composh/docs/getting_started.html)
-to install React Native Elements!
+to install React Native Composh!
 
-### Usage
-
-Start using the components or try it on Snack
-[here](https://snack.expo.io/rJu6gJfBZ).
-
-```js
-import { Button } from 'react-native-composh';
-
-<Button />;
-```
 
 ## Components included:
 
-- [x] [Avatar](https://react-native-composh.github.io/react-native-composh/docs/avatar.html)
+- [ ] [Avatar](https://react-native-composh.github.io/react-native-composh/docs/avatar.html)
 - [x] [Badge](https://react-native-composh.github.io/react-native-composh/docs/badge.html)
 - [x] [Button](https://react-native-composh.github.io/react-native-composh/docs/button.html)
-- [x] [ButtonGroup](https://react-native-composh.github.io/react-native-composh/docs/button_group.html)
+- [ ] [ButtonGroup](https://react-native-composh.github.io/react-native-composh/docs/button_group.html)
 - [x] [Card](https://react-native-composh.github.io/react-native-composh/docs/card.html)
 - [x] [CheckBox](https://react-native-composh.github.io/react-native-composh/docs/checkbox.html)
 - [x] [Divider](https://react-native-composh.github.io/react-native-composh/docs/divider.html)
 - [x] [Header](https://react-native-composh.github.io/react-native-composh/docs/header.html)
-- [x] [HTML style headings](https://react-native-composh.github.io/react-native-composh/docs/text.html)
+- [ ] [HTML style headings](https://react-native-composh.github.io/react-native-composh/docs/text.html)
 - [x] [Icon](https://react-native-composh.github.io/react-native-composh/docs/icon.html)
-- [x] [Image](https://react-native-composh.github.io/react-native-composh/docs/image.html)
+- [ ] [Image](https://react-native-composh.github.io/react-native-composh/docs/image.html)
 - [x] [Input](https://react-native-composh.github.io/react-native-composh/docs/input.html)
 - [x] [ListItem](https://react-native-composh.github.io/react-native-composh/docs/listitem.html)
-- [x] [Overlay](https://react-native-composh.github.io/react-native-composh/docs/overlay.html)
-- [x] [Pricing](https://react-native-composh.github.io/react-native-composh/docs/pricing.html)
-- [x] [Rating](https://react-native-composh.github.io/react-native-composh/docs/rating.html)
-- [x] [SearchBar](https://react-native-composh.github.io/react-native-composh/docs/searchbar.html)
-- [x] [Slider](https://react-native-composh.github.io/react-native-composh/docs/slider.html)
-- [x] [Social Icons / Social Icon Buttons](https://react-native-composh.github.io/react-native-composh/docs/social_icon.html)
-- [x] [Tile](https://react-native-composh.github.io/react-native-composh/docs/tile.html)
-- [x] [Tooltip](https://react-native-composh.github.io/react-native-composh/docs/tooltip.html)
+- [ ] [Overlay](https://react-native-composh.github.io/react-native-composh/docs/overlay.html)
+- [ ] [Pricing](https://react-native-composh.github.io/react-native-composh/docs/pricing.html)
+- [ ] [Rating](https://react-native-composh.github.io/react-native-composh/docs/rating.html)
+- [ ] [SearchBar](https://react-native-composh.github.io/react-native-composh/docs/searchbar.html)
+- [ ] [Slider](https://react-native-composh.github.io/react-native-composh/docs/slider.html)
+- [ ] [Social Icons / Social Icon Buttons](https://react-native-composh.github.io/react-native-composh/docs/social_icon.html)
+- [ ] [Tile](https://react-native-composh.github.io/react-native-composh/docs/tile.html)
+- [ ] [Tooltip](https://react-native-composh.github.io/react-native-composh/docs/tooltip.html)
 
 ## React Native Web support
 
 As a cross platform UI Toolkit, you can now use RNE on the web & share your codebase between your React Native + React web apps. RNE components are rendered perfectly on browser. You can achieve this to target iOS, Android and Web by collaborating RNE and [React Native for Web](https://github.com/necolas/react-native-web).
 
-Click [here](https://react-native-composh.github.io/react-native-composh/blog/2018/12/13/react-native-web.html) for a full walkthrough using React Native Elements + React Native Web.
+[Click Here](https://react-native-composh.github.io/react-native-composh/blog/2018/12/13/react-native-web.html) for a full walkthrough using React Native Composh + React Native Web.
 
 ## Demo App
 
-Checkout the official
-[React Native Elements App](https://expo.io/@monte9/react-native-composh-app)
-on Expo which uses all of the React Native Elements components.
+Checkout the /example to see the implementations.
 
-If you are looking to contribute to the React Native Elements App, click
+If you are looking to contribute to the React Native Composh App, click
 [here](https://github.com/react-native-composh/react-native-composh-app) to
 view the implementation & run the RNE expo app locally.
 
-## Documentation
-
-[View the full docs here](https://react-native-composh.github.io/react-native-composh/docs/overview.html)
 
 ## Contributing
 
@@ -128,60 +121,60 @@ See you on the other side! 👋😃
 
 ## Backers
 
-[Become a backer](https://opencollective.com/react-native-composh#backer) and show your support for React Native Elements.
+[Become a backer](https://opencollective.com/react-native-composh#backer) and show your support for React Native Composh.
 
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/0/avatar)](https://opencollective.com/react-native-composh/backer/0/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/1/avatar)](https://opencollective.com/react-native-composh/backer/1/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/2/avatar)](https://opencollective.com/react-native-composh/backer/2/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/3/avatar)](https://opencollective.com/react-native-composh/backer/3/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/4/avatar)](https://opencollective.com/react-native-composh/backer/4/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/5/avatar)](https://opencollective.com/react-native-composh/backer/5/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/6/avatar)](https://opencollective.com/react-native-composh/backer/6/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/7/avatar)](https://opencollective.com/react-native-composh/backer/7/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/8/avatar)](https://opencollective.com/react-native-composh/backer/8/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/9/avatar)](https://opencollective.com/react-native-composh/backer/9/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/10/avatar)](https://opencollective.com/react-native-composh/backer/10/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/11/avatar)](https://opencollective.com/react-native-composh/backer/11/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/12/avatar)](https://opencollective.com/react-native-composh/backer/12/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/13/avatar)](https://opencollective.com/react-native-composh/backer/13/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/14/avatar)](https://opencollective.com/react-native-composh/backer/14/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/15/avatar)](https://opencollective.com/react-native-composh/backer/15/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/16/avatar)](https://opencollective.com/react-native-composh/backer/16/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/17/avatar)](https://opencollective.com/react-native-composh/backer/17/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/18/avatar)](https://opencollective.com/react-native-composh/backer/18/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/19/avatar)](https://opencollective.com/react-native-composh/backer/19/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/20/avatar)](https://opencollective.com/react-native-composh/backer/20/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/21/avatar)](https://opencollective.com/react-native-composh/backer/21/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/22/avatar)](https://opencollective.com/react-native-composh/backer/22/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/23/avatar)](https://opencollective.com/react-native-composh/backer/23/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/24/avatar)](https://opencollective.com/react-native-composh/backer/24/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/25/avatar)](https://opencollective.com/react-native-composh/backer/25/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/26/avatar)](https://opencollective.com/react-native-composh/backer/26/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/27/avatar)](https://opencollective.com/react-native-composh/backer/27/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/28/avatar)](https://opencollective.com/react-native-composh/backer/28/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/backer/29/avatar)](https://opencollective.com/react-native-composh/backer/29/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/0/avatar)](https://opencollective.com/react-native-composh/backer/0/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/1/avatar)](https://opencollective.com/react-native-composh/backer/1/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/2/avatar)](https://opencollective.com/react-native-composh/backer/2/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/3/avatar)](https://opencollective.com/react-native-composh/backer/3/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/4/avatar)](https://opencollective.com/react-native-composh/backer/4/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/5/avatar)](https://opencollective.com/react-native-composh/backer/5/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/6/avatar)](https://opencollective.com/react-native-composh/backer/6/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/7/avatar)](https://opencollective.com/react-native-composh/backer/7/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/8/avatar)](https://opencollective.com/react-native-composh/backer/8/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/9/avatar)](https://opencollective.com/react-native-composh/backer/9/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/10/avatar)](https://opencollective.com/react-native-composh/backer/10/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/11/avatar)](https://opencollective.com/react-native-composh/backer/11/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/12/avatar)](https://opencollective.com/react-native-composh/backer/12/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/13/avatar)](https://opencollective.com/react-native-composh/backer/13/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/14/avatar)](https://opencollective.com/react-native-composh/backer/14/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/15/avatar)](https://opencollective.com/react-native-composh/backer/15/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/16/avatar)](https://opencollective.com/react-native-composh/backer/16/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/17/avatar)](https://opencollective.com/react-native-composh/backer/17/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/18/avatar)](https://opencollective.com/react-native-composh/backer/18/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/19/avatar)](https://opencollective.com/react-native-composh/backer/19/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/20/avatar)](https://opencollective.com/react-native-composh/backer/20/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/21/avatar)](https://opencollective.com/react-native-composh/backer/21/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/22/avatar)](https://opencollective.com/react-native-composh/backer/22/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/23/avatar)](https://opencollective.com/react-native-composh/backer/23/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/24/avatar)](https://opencollective.com/react-native-composh/backer/24/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/25/avatar)](https://opencollective.com/react-native-composh/backer/25/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/26/avatar)](https://opencollective.com/react-native-composh/backer/26/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/27/avatar)](https://opencollective.com/react-native-composh/backer/27/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/28/avatar)](https://opencollective.com/react-native-composh/backer/28/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/backer/29/avatar)](https://opencollective.com/react-native-composh/backer/29/website)
 
 ## Sponsors
 
-Do you use React Native Elements in production? If so, consider supporting this project as it will allow the maintainers to dedicate more time to maintaining this project and also building new features for everyone. Also, your app or company's logo will show [on GitHub](https://github.com/react-native-composh/react-native-composh#sponsors) and link to your website - who doesn't want a little extra exposure? [Here's the info](https://opencollective.com/react-native-composh#sponsor).
+Do you use React Native Composh in production? If so, consider supporting this project as it will allow the maintainers to dedicate more time to maintaining this project and also building new features for everyone. Also, your app or company's logo will show [on GitHub](https://github.com/react-native-composh/react-native-composh#sponsors) and link to your website - who doesn't want a little extra exposure? [Here's the info](https://opencollective.com/react-native-composh#sponsor).
 
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/0/avatar)](https://opencollective.com/react-native-composh/sponsor/0/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/1/avatar)](https://opencollective.com/react-native-composh/sponsor/1/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/2/avatar)](https://opencollective.com/react-native-composh/sponsor/2/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/3/avatar)](https://opencollective.com/react-native-composh/sponsor/3/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/4/avatar)](https://opencollective.com/react-native-composh/sponsor/4/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/5/avatar)](https://opencollective.com/react-native-composh/sponsor/5/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/6/avatar)](https://opencollective.com/react-native-composh/sponsor/6/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/7/avatar)](https://opencollective.com/react-native-composh/sponsor/7/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/8/avatar)](https://opencollective.com/react-native-composh/sponsor/8/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/9/avatar)](https://opencollective.com/react-native-composh/sponsor/9/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/10/avatar)](https://opencollective.com/react-native-composh/sponsor/10/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/11/avatar)](https://opencollective.com/react-native-composh/sponsor/11/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/12/avatar)](https://opencollective.com/react-native-composh/sponsor/12/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/13/avatar)](https://opencollective.com/react-native-composh/sponsor/13/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/14/avatar)](https://opencollective.com/react-native-composh/sponsor/14/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/15/avatar)](https://opencollective.com/react-native-composh/sponsor/15/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/16/avatar)](https://opencollective.com/react-native-composh/sponsor/16/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/17/avatar)](https://opencollective.com/react-native-composh/sponsor/17/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/18/avatar)](https://opencollective.com/react-native-composh/sponsor/18/website)
-[![React Native Elements Backer](https://opencollective.com/react-native-composh/sponsor/19/avatar)](https://opencollective.com/react-native-composh/sponsor/19/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/0/avatar)](https://opencollective.com/react-native-composh/sponsor/0/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/1/avatar)](https://opencollective.com/react-native-composh/sponsor/1/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/2/avatar)](https://opencollective.com/react-native-composh/sponsor/2/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/3/avatar)](https://opencollective.com/react-native-composh/sponsor/3/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/4/avatar)](https://opencollective.com/react-native-composh/sponsor/4/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/5/avatar)](https://opencollective.com/react-native-composh/sponsor/5/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/6/avatar)](https://opencollective.com/react-native-composh/sponsor/6/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/7/avatar)](https://opencollective.com/react-native-composh/sponsor/7/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/8/avatar)](https://opencollective.com/react-native-composh/sponsor/8/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/9/avatar)](https://opencollective.com/react-native-composh/sponsor/9/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/10/avatar)](https://opencollective.com/react-native-composh/sponsor/10/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/11/avatar)](https://opencollective.com/react-native-composh/sponsor/11/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/12/avatar)](https://opencollective.com/react-native-composh/sponsor/12/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/13/avatar)](https://opencollective.com/react-native-composh/sponsor/13/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/14/avatar)](https://opencollective.com/react-native-composh/sponsor/14/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/15/avatar)](https://opencollective.com/react-native-composh/sponsor/15/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/16/avatar)](https://opencollective.com/react-native-composh/sponsor/16/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/17/avatar)](https://opencollective.com/react-native-composh/sponsor/17/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/18/avatar)](https://opencollective.com/react-native-composh/sponsor/18/website)
+[![React Native Composh Backer](https://opencollective.com/react-native-composh/sponsor/19/avatar)](https://opencollective.com/react-native-composh/sponsor/19/website)
