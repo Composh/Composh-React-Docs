@@ -11,7 +11,7 @@ Uma maneira comum de usar a estrutura da tela do Composh é ter todos os compone
 
 ## Usage
 
-*General Syntax*
+*Sintaxe geral*
 
 ```js
 import React, { Component } from 'react';
@@ -49,19 +49,16 @@ export default class AnatomyExample extends Component {
 }
 ```
 
-<br />
-
-
 * Todos os componentes devem ser incluídos no <code>&lt;Container&gt;</code>.
 
 * O <code>&lt;Container&gt;</code> é composto principalmente três componentes: <code>&lt;Header&gt;</code>, <code>&lt;Content&gt;</code> and <code>&lt;Footer&gt;</code>.
 
 * O container vem com sua folha de estilo predefinida, com uma vantagem adicional de aceitar estilos definidos pelo usuário.
 
+<br />
+
 
 ## Configuration
-
-<br />
 
 ```js
     <table class="table table-bordered">
