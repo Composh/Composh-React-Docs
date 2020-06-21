@@ -60,43 +60,8 @@ export default class AnatomyExample extends Component {
 
 ## Configuration
 
-```js
-    <table class="table table-bordered">
-        <thead>
-            <tr>
-                <th>Property</th>
-                <th>Default</th>
-                <th>Option</th>
-                <th width="50%">Description</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Header</td>
-                <td> - </td>
-                <td> - </td>
-                <td>Renders as Header (navbar) of your screen.<br />
-                    Input values: Button, Title (Text).
-                </td>
-            </tr>
-            <tr>
-                <td>Content</td>
-                <td> - </td>
-                <td> - </td>
-                <td>Represents the main content of your screen.<br />
-                    There can be only one <code style="background-color: #FFF">&lt;Content></code> component in a screen.
-                </td>
-            </tr>
-            <tr>
-                <td>Footer</td>
-                <td> - </td>
-                <td> - </td>
-                <td>Renders as Footer of your screen.<br />
-                    Input values: FooterTab
-                    </a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <br />
-```
+|        Type         |    Default     | |    Options     | |    Descrição     |
+| :-----------------: | :------------: | | :------------: | | :------------: |
+| Header              |        -       | |        -       | | Renderiza como cabeçalho (barra de navegação) da sua tela. Valores de entrada: Botão, Título (Texto) |
+| Content             |        -       | |        -       | | Representa o conteúdo principal da sua tela. Pode haver apenas um <Content>componente em uma tela. |
+| Footer              |        -       | |        -       | | Renderiza como rodapé da sua tela. |
