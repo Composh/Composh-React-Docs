@@ -3,6 +3,7 @@ id: badge
 title: Badge
 ---
 
+
 Badges are small components typically used to communicate a numerical value or
 indicate the status of an item to the user.
 
