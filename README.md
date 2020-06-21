@@ -15,10 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="#backers"><img src="https://opencollective.com/react-native-composh/backers/badge.svg"></a>
-  <a href="#sponsors"><img src="https://opencollective.com/react-native-composh/sponsors/badge.svg"></a>
   <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
+
+<p align="center">
+  <a href="#backers"><img src="https://opencollective.com/react-native-composh/backers/badge.svg"></a>
+  <a href="#sponsors"><img src="https://opencollective.com/react-native-composh/sponsors/badge.svg"></a>
 </p>
 
 <br />
