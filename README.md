@@ -23,7 +23,7 @@
 
 <br />
 
-![React Native Elements UI Toolkit](https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png)
+![React Native Elements UI Toolkit](https://github.com/Composh/react-native-comdocs/blob/master/src/assets/images/logo-composh-wallpaper.png?raw=true)
 
 ## Get Started
 
