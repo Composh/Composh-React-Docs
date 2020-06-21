@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://composh.io/" target="_blank">
-    <img alt="react-native-composh" src="https://user-images.githubusercontent.com/5962998/65694309-a825f000-e043-11e9-8382-db0dba0851e3.png" width="300">
+    <img alt="react-native-composh" src="https://github.com/Composh/react-native-comdocs/blob/master/src/assets/images/logo-composh-full-square.png?raw=true" width="300">
   </a>
 </p>
 
@@ -17,7 +17,6 @@
 <p align="center">
   <a href="#backers"><img src="https://opencollective.com/react-native-composh/backers/badge.svg"></a>
   <a href="#sponsors"><img src="https://opencollective.com/react-native-composh/sponsors/badge.svg"></a>
-  <a href="https://codecov.io/gh/react-native-composh/react-native-composh"><img src="https://codecov.io/gh/react-native-composh/react-native-composh/coverage.svg"></a>
   <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
