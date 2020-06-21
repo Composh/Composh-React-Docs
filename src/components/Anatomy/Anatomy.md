@@ -9,7 +9,7 @@ Uma maneira comum de usar a estrutura da tela do Composh é ter todos os compone
 <br />
 
 
-## Usage
+## Uso
 
 *Sintaxe geral*
 
